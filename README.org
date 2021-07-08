@@ -1,0 +1,21 @@
+* My themes
+
+** emacs
+This is the =spacemacs-dark= theme combined with the following
+customizations I have made.
+
+[[./my-faces.el]]
+
+** vim
+
+[[./syntax.vim]]
+
+*** Standalone universal syntax highlighting
+https://github.com/mullikine/vim-universal-highlight
+
+** tmux
+
+[[./tmux.conf]]
+
+** hugo
+=hugo-theme-m10c= with major customizations.

@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/d5bcb52b/
+global-map	my-faces.el	/^(define-key global-map (kbd "<f11>") 'toggle-text-contrast)$/;"	f
+my-customize-face	my-faces.el	/^(defun my-customize-face (face)$/;"	f
+my-list-faces	my-faces.el	/^(defun my-list-faces (&optional regexp)$/;"	f
+org-bold	my-faces.el	/^(defface org-bold$/;"	f
+org-italic	my-faces.el	/^(defface org-italic$/;"	f
+org-strikethrough	my-faces.el	/^(defsetface org-strikethrough$/;"	f
+org-underline	my-faces.el	/^(defface org-underline$/;"	f
+reload-spacemacs-dark	my-faces.el	/^(defun reload-spacemacs-dark ()$/;"	f
+reload-spacemacs-theme	my-faces.el	/^(defalias 'reload-spacemacs-theme 'reload-spacemacs-dark)$/;"	f
+set-text-contrast-from-config	my-faces.el	/^(defun set-text-contrast-from-config ()$/;"	f
+toggle-text-contrast	my-faces.el	/^(defun toggle-text-contrast (&optional changestate)$/;"	f
